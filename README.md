@@ -19,17 +19,17 @@
     </header>
     <section class="details">
       <h1>Introduction</h1>
-      <p>Details here...</p>
+      <p></p>
       <h1>Where I'm From</h1>
-      <p>Details here...</p>
+      <p>I am from Los Angeles. Yes born and raised</p>
       <h1>What are your favorite hobbies?</h1>
-      <p>Details here...</p>
+      <p>I like to read, write, draw. Anything that touches the light of creativity</p>
       <h1>What's your dream job?</h1>
-      <p>Details here...</p>
+      <p>My dream job is being a writer and app developer</p>
       <h1>Where do you live?</h1>
-      <p>Details here...</p>
+      <p>I live in the valley :D</p>
       <h1>Why do you want to be a web developer?</h1>
-      <p>Details here...</p>
+      <p>Because it is challenging my artistic skills and a new format (for me) to bring those skills together with a new one which is coding!</p>
     </section>
 
     <footer id="footer">
